@@ -1,3 +1,4 @@
+// Advent of Code Day 1, Parts 1 and 2
 // https://adventofcode.com/2022/day/1
 package main
 
